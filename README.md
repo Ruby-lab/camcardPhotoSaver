@@ -33,7 +33,8 @@ driver\
 get_image(driver, pic_url, 'SAVE TO DIRECTORY') # Set directory to save files.
 ```
 
-3. Put chromdriver file into 'libs' directory and Run script.
+3. Make 'libs' directory on same place with this script.
+4. Put chromdriver file in './libs' directory and Run script.
 
 ## Notice
 This script's working might be regarded as attack by www.camcard.com.
